@@ -20,5 +20,3 @@ string [] ArrayString(int num){
     }
     return array;
 }
-
-
